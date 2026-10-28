@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-labelledby="title desc">
+<title id="title">BUILD WITH PURPOSE</title><desc id="desc">Original illustrated sample book cover in a #e0eaff and #3159a6 palette.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e0eaff"/><stop offset="1" stop-color="#3159a6" stop-opacity=".45"/></linearGradient></defs>
+<rect width="360" height="520" fill="url(#g)"/><rect x="16" y="16" width="328" height="488" rx="3" fill="none" stroke="#3159a6" stroke-width="3"/>
+<circle cx="180" cy="150" r="76" fill="#3159a6" opacity=".20"/><circle cx="180" cy="150" r="58" fill="none" stroke="#3159a6" stroke-width="2"/>
+<text x="180" y="172" text-anchor="middle" font-size="62" fill="#3159a6" font-family="Georgia,serif">▰</text>
+<text x="180" y="285" text-anchor="middle" class="title">BUILD WITH</text><text x="180" y="332" text-anchor="middle" class="title">PURPOSE</text>
+<line x1="92" y1="395" x2="268" y2="395" stroke="#3159a6" stroke-width="2"/>
+<text x="180" y="427" text-anchor="middle" font-size="15" letter-spacing="3" fill="#3159a6" font-family="Arial,sans-serif">BUSINESS</text>
+<text x="180" y="476" text-anchor="middle" font-size="13" letter-spacing="4" fill="#e0eaff" font-family="Arial,sans-serif">UM PUBLISHERS</text>
+<style>.title{font: bold 30px Georgia,serif;letter-spacing:1px;fill:#14213d;}</style>
+</svg>

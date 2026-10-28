@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-labelledby="title desc">
+<title id="title">THE GLASS KEY</title><desc id="desc">Original illustrated sample book cover in a #162a46 and #63c7c9 palette.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#162a46"/><stop offset="1" stop-color="#63c7c9" stop-opacity=".45"/></linearGradient></defs>
+<rect width="360" height="520" fill="url(#g)"/><rect x="16" y="16" width="328" height="488" rx="3" fill="none" stroke="#63c7c9" stroke-width="3"/>
+<circle cx="180" cy="150" r="76" fill="#63c7c9" opacity=".20"/><circle cx="180" cy="150" r="58" fill="none" stroke="#63c7c9" stroke-width="2"/>
+<text x="180" y="172" text-anchor="middle" font-size="62" fill="#63c7c9" font-family="Georgia,serif">◇</text>
+<text x="180" y="285" text-anchor="middle" class="title">THE GLASS</text><text x="180" y="332" text-anchor="middle" class="title">KEY</text>
+<line x1="92" y1="395" x2="268" y2="395" stroke="#63c7c9" stroke-width="2"/>
+<text x="180" y="427" text-anchor="middle" font-size="15" letter-spacing="3" fill="#63c7c9" font-family="Arial,sans-serif">A MYSTERY</text>
+<text x="180" y="476" text-anchor="middle" font-size="13" letter-spacing="4" fill="#162a46" font-family="Arial,sans-serif">UM PUBLISHERS</text>
+<style>.title{font: bold 30px Georgia,serif;letter-spacing:1px;fill:#ffffff;}</style>
+</svg>
